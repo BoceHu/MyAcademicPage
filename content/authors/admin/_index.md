@@ -6,7 +6,7 @@ title: Boce Hu (胡博策)
 superuser: true
 
 # Role/position
-role: Research Asisstant in ROAR Lab ("https://roar.me.columbia.edu/")
+role: Research Asisstant in ROAR Lab"https://roar.me.columbia.edu/"
 
 # Organizations/Affiliations
 organizations:
