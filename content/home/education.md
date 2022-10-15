@@ -8,8 +8,8 @@ design:
   columns: '1'
 date_format: Jan 2006
 experience:
-  - title: PhD Electronic Engineering
-    company: University X
+  - title: Master of Science in Mechanical Engineering
+    company: Columbia University
     company_url: ''
     location: New York
     date_start: '2017-01-01'
