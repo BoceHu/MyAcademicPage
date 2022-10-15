@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position
 role: Research Asisstant in ROAR Lab
+- url:"https://roar.me.columbia.edu/"
 
 # Organizations/Affiliations
 organizations:
