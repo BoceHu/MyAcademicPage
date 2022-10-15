@@ -22,5 +22,5 @@ experience:
     location: Tianjin, China
     date_start: '2016-09-01'
     date_end: '2020-07-31'
-    description: 
+    description: Advanced Master Concentration in Robotics and Control.
 ---
