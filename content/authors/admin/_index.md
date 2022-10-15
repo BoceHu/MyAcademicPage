@@ -32,7 +32,7 @@ social:
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: static\uploads\resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
