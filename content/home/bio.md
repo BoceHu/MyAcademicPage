@@ -19,7 +19,7 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: li-yang-5h_dMuX_7RE-unsplash.webp  # Name of image in `static/media/`.
+    image: hello.jpg  # Name of image in `static/media/`.
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -32,3 +32,12 @@ advanced:
 author: admin
 ---
 
+I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.
+
+## My Mission
+
+Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+
+## Specialties
+
+Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
