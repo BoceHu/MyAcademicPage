@@ -14,7 +14,7 @@ experience:
     date_start: '2021-09-01'
     date_end: '2023-05-31'
     description: 
-  - title: Bachelor of Engineering in Flight Vehicle Power Engineering, 
+  - title: Bachelor of Engineering in Flight Vehicle Power Engineering
     company: Civil Aviation University of China
     company_url: ''
     location: Tianjin, China
