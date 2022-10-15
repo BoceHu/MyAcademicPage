@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Boce HU (胡博策)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant in [ROAR Lab](https://roar.me.columbia.edu/)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Columbia University
+  url: "https://www.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robot learning, computer vision and machine/deep learning.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,16 +23,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:bh2770@columbia.edu'  # For a direct email link, use "mailto:test@example.org".
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/BoceHu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 - icon: cv
