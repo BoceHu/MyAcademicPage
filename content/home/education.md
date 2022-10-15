@@ -13,8 +13,7 @@ experience:
     location: New York, NY, USA
     date_start: '2021-09-01'
     date_end: '2023-05-31'
-    description: Advanced Master Concentration in Robotics and Control, GPA: 3.9/4.0 
-                Coursework: Intro to Robotics, Robotics Studio (A+), Evolution Algorithm, Data Science, Robot Learning, Deep Learning (A+), Natural Language Processing, Reinforcement Learning (In progress)
+    description: Advanced Master Concentration in Robotics and Control, GPA: 3.9/4.0 Coursework: Intro to Robotics, Robotics Studio (A+), Evolution Algorithm, Data Science, Robot Learning, Deep Learning (A+), Natural Language Processing, Reinforcement Learning (In progress)
   - title: MEng Electronic Engineering
     company: University X
     company_url: ''
