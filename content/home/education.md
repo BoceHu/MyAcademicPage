@@ -16,6 +16,8 @@ experience:
     date_end: '2023-05-31'
     description: > 
       Advanced Master 
+
+
       Concentration in Robotics and Control.
         
   - title: Bachelor of Engineering in Flight Vehicle Power Engineering GPA:3.7/4.0
