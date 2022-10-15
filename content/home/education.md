@@ -8,17 +8,19 @@ design:
   columns: '1'
 date_format: Jan 2006
 experience:
-  - title: Master of Science in Mechanical Engineering
-    company: Columbia University
-    location: New York, NY, USA
-    date_start: '2021-09-01'
-    date_end: '2023-05-31'
-    description: 
-  - title: Bachelor of Engineering in Flight Vehicle Power Engineering
-    company: Civil Aviation University of China
+  - title: PhD Electronic Engineering
+    company: University X
     company_url: ''
-    location: Tianjin, China
-    date_start: '2016-09-01'
-    date_end: '2020-7-31'
-    description: 
+    location: New York
+    date_start: '2017-01-01'
+    date_end: ''
+    description: Contributed some novel ideas in scientific papers.
+        
+  - title: MEng Electronic Engineering
+    company: University X
+    company_url: ''
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Specialized in semiconductor physics.
 ---
