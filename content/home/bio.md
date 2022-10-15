@@ -32,12 +32,6 @@ advanced:
 author: admin
 ---
 
-I'm a research scientist in the Language team at DeepMind. I blog about machine learning, deep learning, and natural language processing.
+## About me
 
-## My Mission
-
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
-
-## Specialties
-
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+I'm a second year Master student at **Columbia University**, working closely with [Prof. Sunil K. Agrawal](https://www.engineering.columbia.edu/faculty/sunil-agrawal). My major is Mechanical Engineering and as a research assistant in [ROAR Lab]([Roar Lab (columbia.edu)](https://roar.me.columbia.edu/)) from fall 2021. During the time working in ROAR Lab, my research project is mainly about the application of human pose and hand pose estimation in medical field. My research  interest is in Robot Learning, especially Computer Vision and Reinforcement Learning. Before  coming to Columbia, I received B.S. degree at the Civil Aviation University of China.
