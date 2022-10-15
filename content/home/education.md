@@ -1,7 +1,7 @@
 ---
-widget: about
+widget: education
 headless: true
-weight: 60
+weight: 3
 title: Education
 subtitle: ''
 design:
