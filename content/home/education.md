@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: about
 headless: true
 weight: 60
 title: Education
