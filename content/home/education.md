@@ -17,6 +17,7 @@ experience:
     description: > 
       Advanced Master Concentration in Robotics and Control.
 
+
       TA for Data Science for Mechanical Systems.
         
   - title: Bachelor of Engineering in Flight Vehicle Power Engineering GPA:3.7/4.0
