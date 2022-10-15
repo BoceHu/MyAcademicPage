@@ -14,7 +14,7 @@ experience:
     location: New York, NY, USA
     date_start: '2021-09-01'
     date_end: '2023-05-31'
-    description: >
+    description: > 
       Advanced Master 
       Concentration in Robotics and Control.
         
