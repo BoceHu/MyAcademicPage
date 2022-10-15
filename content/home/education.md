@@ -14,9 +14,7 @@ experience:
     location: New York, NY, USA
     date_start: '2021-09-01'
     date_end: '2023-05-31'
-    description: |
-      Advanced Master Concentration in Robotics and Control.
-      Coursework:Intro to Robotics, Robotics Studio (A+), Evolution Algorithm, Data Science, Robot Learning, Deep Learning (A+), Natural Language Processing, Reinforcement Learning (In progress).
+    description: Advanced Master Concentration in Robotics and Control.
         
   - title: Bachelor of Engineering in Flight Vehicle Power Engineering GPA:3.7/4.0
     company: Civil AViation University of China
@@ -24,5 +22,5 @@ experience:
     location: Tianjin, China
     date_start: '2016-09-01'
     date_end: '2020-07-31'
-    description: Coursework:Aviation Engine Principle, Aviation Engine Control, Aviation Engine Structure, Aviation Engine Emission, Dynamics of Aircraft."
+    description: 
 ---
