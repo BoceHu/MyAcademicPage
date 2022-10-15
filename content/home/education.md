@@ -14,13 +14,13 @@ experience:
     location: New York, NY, USA
     date_start: '2021-09-01'
     date_end: '2023-05-31'
-    description: Contributed some novel ideas in scientific papers.
+    description: Advanced Master Concentration in Robotics and Control.
         
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Bachelor of Engineering in Flight Vehicle Power Engineering
+    company: Civil AViation University of China
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Tianjin, China
+    date_start: '2016-09-01'
+    date_end: '2020-07-31'
     description: Specialized in semiconductor physics.
 ---
