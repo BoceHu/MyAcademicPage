@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boce Hu (胡博策)
+title: Boce Hu 胡博策
 
 # Is this the primary user of the site?
 superuser: true
