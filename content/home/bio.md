@@ -5,7 +5,7 @@
 
 widget: about.avatar  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 1  # Order that this section will appear.
+weight: 10  # Order that this section will appear.
 title: ""
 subtitle: ""
 design:
