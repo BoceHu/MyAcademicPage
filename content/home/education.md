@@ -11,7 +11,7 @@ experience:
   - title: Master of Science in Mechanical Engineering
     company: Columbia University
     company_url: ''
-    location: New York
+    location: New York, NY, USA
     date_start: '2021-09-01'
     date_end: '2023-05-31'
     description: Contributed some novel ideas in scientific papers.
