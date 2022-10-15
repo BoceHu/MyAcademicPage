@@ -12,8 +12,8 @@ experience:
     company: Columbia University
     company_url: ''
     location: New York
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2021-09-01'
+    date_end: '2023-05-31'
     description: Contributed some novel ideas in scientific papers.
         
   - title: MEng Electronic Engineering
