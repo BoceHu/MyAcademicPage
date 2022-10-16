@@ -24,9 +24,7 @@ design:
   - <p style='text-align: justify;font-size: 14px;'>Designed a novel end-to-end Attention Cube Regression Network (ACRNet) for multi-view real-time 3D human pose estimation based on depth images, and validated the superiority of ACRNet on the ITOP dataset and UBM dataset compared with other state-of-the-art methods.</p>
   - <p style='text-align: justify;font-size: 14px;'>Propose a new backbone structure and a dynamic multi-view fusion module based on cross-attention mechanism. Both of them improve the representation ability of our model.</p>
   
-- <b>Postural Limits</b>
-  
-  <p style="text-align:center;"><img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="right"></p>
+- <b>Postural Limits</b><p style="text-align:center;"><img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="right"></p>
   
   - <p style='text-align: justify;font-size: 14px;'>Developed a new deep-learning-based real-time controller for TruST to generate a dynamic motion boundary, replacing the fixed boundary in the sitting task.</p>
 
