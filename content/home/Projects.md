@@ -14,7 +14,7 @@ design:
 - Human Pose
 - Postural Limits
 
-![image-20221016015641456](C:/Users/78438/AppData/Roaming/Typora/typora-user-images/image-20221016015641456.png)
+![](E:/Columbia/PersonalWebsite/assets/media/pipeline.png)
 
 
 
