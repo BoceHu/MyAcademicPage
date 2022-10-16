@@ -26,7 +26,7 @@ Boce Hu, Chenfei Zhu, Xupeng Ai, Sunil K. Agrawal
 
 _IEEE Robotics and Automation Letters (RAL), 2023, Under Review_
 
-[[Arxiv]([2210.05130.pdf (arxiv.org)](https://arxiv.org/pdf/2210.05130.pdf))] [[Code]([BoceHu/ACRNet: Official Implementation for Paper "ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine" (github.com)](https://github.com/BoceHu/ACRNet))]
+[[Arxiv](https://arxiv.org/pdf/2210.05130.pdf)] [[Code](https://github.com/BoceHu/ACRNet)]
 
 A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation
 
