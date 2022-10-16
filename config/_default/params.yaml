@@ -67,7 +67,6 @@ edit_page:
     page: false
     post: false
 show_related:
-  doc: false
   page: false
   post: true
   project: true
