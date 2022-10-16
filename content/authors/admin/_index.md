@@ -32,7 +32,7 @@ social:
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: 'https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/cv.pdf'
+  link: 'uploads/cv.pdf'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
