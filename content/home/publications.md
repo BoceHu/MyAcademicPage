@@ -20,12 +20,18 @@ design:
   columns: '1'
 ---
 
-fhbukcbksdjncmiosjc
+ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine
 
+Boce Hu, Chenfei Zhu, Xupeng Ai, Sunil K. Agrawal
 
+_IEEE Robotics and Automation Letters (RAL), 2023, Under Review_
 
-knciosjnciosncsoinbvsiovsnio
+[[Arxiv]([2210.05130.pdf (arxiv.org)](https://arxiv.org/pdf/2210.05130.pdf))] [[Code]([BoceHu/ACRNet: Official Implementation for Paper "ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine" (github.com)](https://github.com/BoceHu/ACRNet))]
 
+A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation
 
+Xupeng Ai, Victor Santamaria, Jiawei Chen, Boce Hu, Chenfei Zhu, Sunil K. Agrawal
 
-hikjioojn
+_IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2023, Under Review_
+
+[[Techrxiv](https://doi.org/10.36227/techrxiv.20499006.v1)]
