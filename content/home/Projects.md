@@ -14,7 +14,7 @@ design:
 - Human Pose
 - Postural Limits
 
-![](E:/Columbia/PersonalWebsite/assets/media/pipeline.png)
+![screen reader text](pipeline.png "caption")
 
 
 
