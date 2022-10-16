@@ -12,5 +12,5 @@ design:
   columns: '1'
 ---
 
-- Programming Languages: Python, MATLAB, C++, JAVA, Git
-- Software: TensorFlow, PyTorch, OpenCV, Stable-baselines3, Robot Operating System (ROS), SolidWorks, Blender, 3D-Printing, LaTeX and Linux
+- **Programming Languages**: Python, MATLAB, C++, JAVA, Git
+- **Software**: TensorFlow, PyTorch, OpenCV, Stable-baselines3, Robot Operating System (ROS), SolidWorks, Blender, 3D-Printing, LaTeX and Linux
