@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 70  # Order that this section will appear.
-title: "About Me"
+title: "Skills"
 subtitle: ""
 design:
   columns: '1'
