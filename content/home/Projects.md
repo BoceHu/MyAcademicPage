@@ -10,7 +10,9 @@ design:
 
 ## Research Projects
 
-
+- Hand Pose
+- Human Pose
+- Postural Limits
 
 
 
@@ -18,3 +20,7 @@ design:
 
 ## Course Projects
 
+- Robot Learning
+- Robot Studio
+- EA
+- Glass Cleaning Robot
