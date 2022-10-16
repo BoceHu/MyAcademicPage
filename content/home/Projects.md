@@ -26,7 +26,7 @@ design:
   
 - <b>Postural Limits</b>
   
-  <p style="text-align:center;"><img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="center"></p>
+  <p style="text-align:center;">					<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="center"></p>
   
   
   
