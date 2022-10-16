@@ -6,6 +6,7 @@ title: "Projects"
 subtitle: ""
 design:
   columns: '1'
+  image_position: center
 ---
 
 ## Research Projects
