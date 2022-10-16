@@ -8,7 +8,7 @@ design:
   columns: '1'
 ---
 
-# Research Projects
+## Research Projects
 
 
 
@@ -16,4 +16,5 @@ design:
 
 
 
-# Course Projects
+## Course Projects
+
