@@ -26,7 +26,9 @@ design:
   
 - <b>Postural Limits</b>
   
-  <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="center">
+  <p style="text-align:center;"><img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="center"></p>
+  
+  
   
   - <p style='text-align: justify;font-size: 14px;'>Developed a new deep-learning-based real-time controller for TruST to generate a dynamic motion boundary, replacing the fixed boundary in the sitting task.</p>
 
