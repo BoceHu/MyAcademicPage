@@ -23,7 +23,7 @@ design:
   
   - <p style='text-align: justify;font-size: 14px;'>Collected a multi-view upper body movement dataset (UBM)  with the assistance of the trunk support trainer (TruST), consisting of 156K trunk movement depth images collected from 16 healthy subjects. The key points in the dataset is labeled by Vicon infrared system and the concept behind this dataset is the Star Excursion Balance Test (SEBT).</p>
   - <p style='text-align: justify;font-size: 14px;'>Designed a novel end-to-end Attention Cube Regression Network (ACRNet) for multi-view real-time 3D human pose estimation based on depth images, and validated the superiority of ACRNet on the ITOP dataset and UBM dataset compared with other state-of-the-art methods.</p>
-  - <p style='text-align: justify;font-size: 14px;'>Propose a new backbone structure and a dynamic multi-view fusion module based on cross-attention mechanism. Both of them improve the representation ability of our model.</p>
+  - <p style='text-align: justify;font-size: 14px;'>Proposed a new backbone structure and a dynamic multi-view fusion module based on cross-attention mechanism. Both of them improve the representation ability of our model.</p>
   
 - <p style='text-align: justify;font-size:16px'><b>A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation</b></p> <p style='text-align: right; font-color:grey; font-size:11px'><i>Oct 2021 – May 2022</i></p>
   
@@ -31,7 +31,7 @@ design:
   <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png">
   </p>			
   
-  - <p style='text-align: justify;font-size: 14px;'>Developed a new deep-learning-based real-time controller for TruST to generate a dynamic motion boundary, replacing the fixed boundary in the sitting task.</p>
+  - <p style='text-align: justify;font-size: 14px;'>Developed a new deep-learning-based controller for TruST to predict the dynamic virtual motion boundary of upper body movements in real-time, which can represent the actual seated postural limits more accurately in the rehabilitation sitting task of patients with cerebral palsy, replacing the fixed boundary without strong representational ability used in the previous version.</p>
 
 
 
