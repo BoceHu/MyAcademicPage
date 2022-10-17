@@ -39,7 +39,7 @@ design:
 
 ## Course Projects
 
-<ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target positions</b></p><br/>
+<ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target positions</b></p>
         <p style='font-size:16px'>
     	<b>Projects of Robot Learning (MECE 6616)</b>
     </p>
@@ -59,10 +59,10 @@ design:
 <ul><li>
     <p class="left" style='font-size:16px'>
         <b>Design, Fabrication, and Programming of Humanoid Robot</b>
-    </p><br/>
+    </p>
     <p style='font-size:16px'>
     	<b>The Final Project of Robot Studio (MECE 4611)</b>
-    </p><br/>
+    </p>
     <p style='font-size:16px'><b>Advisor: Hod Lipson</b></p>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Designed the CAD model of an organic-looking two-legged robot including all components.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Fabricated each part of the robot using 3D printing and assembled them for test.</p></li></ul>
