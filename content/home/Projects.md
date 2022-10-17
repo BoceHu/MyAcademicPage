@@ -79,7 +79,7 @@ design:
             </p>
          </li></ul>
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'><a href="uploads/FinalReport.pdf">Final Report</a></p>
+            <p style='text-align: justify;font-size: 14px;'><a href="uploads/FinalReport.pdf" target="_blank">Final Report</a></p>
 	</li></ul>
 </li></ul>
 
