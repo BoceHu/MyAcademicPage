@@ -27,9 +27,8 @@ design:
   
 - <p style='text-align: justify;font-size:16px'><b>A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation</b></p> <p style='text-align: right; font-color:grey; font-size:11px'><i>Oct 2021 – May 2022</i></p>
   
-  <p style='text-align: center'>
-  <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png">
-  </p>			
+  <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" class="center">
+  		
   
   - <p style='text-align: justify;font-size: 14px;'>Developed a new deep-learning-based controller for TruST to predict the dynamic virtual motion boundary of upper body movements in real-time, which can represent the actual seated postural limits more accurately in the rehabilitation sitting task of patients with cerebral palsy, replacing the fixed boundary without strong representational ability used in the previous version.</p>
 
