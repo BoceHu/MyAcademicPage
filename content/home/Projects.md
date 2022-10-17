@@ -45,7 +45,7 @@ design:
 </li></ul>
 <center>
 	<figure>  
-		<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" alt="pipeline" width="80%" >  <figcaption style="margin:5px 0px -20px 0px" >ACRNet Working Pipeline</figcaption>
+		<img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" alt="pipeline" width="80%" >  <figcaption style="margin:5px 0px -20px 0px" >ACRNet Working Pipeline</figcaption>
     </figure>
 </figure></center>
 
