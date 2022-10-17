@@ -39,7 +39,11 @@ design:
 
 ## Course Projects
 
-- Robot Learning
+- Robot Learning (MECE 6616)
+  - Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.
+  - Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).
+  - Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.
+  - Demo Page
 - Robot Studio
 - EA
 - Glass Cleaning Robot
