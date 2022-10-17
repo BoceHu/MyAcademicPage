@@ -74,11 +74,12 @@ design:
 <center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe></center>
 
 <ul><li>
- 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot</b></p><br/><p style='font-size:16px'><b>Advisor: Sunil K. Agrawal</b></p>
+ 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot</b></p><br/>
     <p style='font-size:16px'>
     	<b>The Final Project of Introduction to Robotics (MECE 4602)</b>
     </p>
     <br/>
+    <p style='font-size:16px'><b>Advisor: Sunil K. Agrawal</b></p>
     	<ul><li>
             <p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.
             </p>
