@@ -60,7 +60,7 @@ design:
     </center>
     </li></ul>
 <ul><li>
-    <p class="left" style='font-size:16px'>
+    <p class="left" style='font-size:16px margin:-10px 0px 0px 0px'>
         <b>Design, Fabrication, and Programming of Humanoid Robot</b>
     </p><br/>
     <p style='font-size:16px'>
@@ -75,7 +75,7 @@ design:
 </center>
 
 <ul><li>
- 	<p class="left" style='font-size:16px margin:-10px 0px 0px 0px'><b>Glass Cleaning Robot Design</b></p><br/>
+ 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot Design</b></p><br/>
     <p style='font-size:16px'>
     	<b>The Final Project of Introduction to Robotics (MECE 4602)</b>
     </p>
