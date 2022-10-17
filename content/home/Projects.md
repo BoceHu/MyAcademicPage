@@ -51,10 +51,10 @@ design:
         </p>
     </li></ul>
     <center>
-    <figure style="margin:0px 0px -30px 0px">  
+    <figure style="margin:0px 0px -50px 0px">  
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption >Deep Q-learning</figcaption>
 </figure>
-    <figure style="margin:0px 0px -30px 0px">
+    <figure style="margin:0px 0px -50px 0px">
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization</figcaption>
 </figure>
     </center>
