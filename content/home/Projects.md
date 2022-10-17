@@ -42,7 +42,7 @@ design:
 <ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target positions</b></p><br/>
         <p style='font-size:16px'>
     	<b>Projects of Robot Learning (MECE 6616)</b>
-    </p><br/>
+    </p>
     <p style='font-size:16px'><b>Advisor: Matei Ciocarlie</b></p>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).</p></li></ul>
@@ -75,7 +75,6 @@ design:
     <p style='font-size:16px'>
     	<b>The Final Project of Introduction to Robotics (MECE 4602)</b>
     </p>
-    <br/>
     <p style='font-size:16px'><b>Advisor: Sunil K. Agrawal</b></p>
     	<ul><li>
             <p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.
