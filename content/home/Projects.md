@@ -79,7 +79,7 @@ design:
             </p>
          </li></ul>
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'><a href="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/Final%20Report.pdf">Final Report</a>
+            <p style='text-align: justify;font-size: 14px;'><a href="media/FinalReport.pdf">Final Report</a>
             </p>
 		</li></ul>
     </li></ul>
