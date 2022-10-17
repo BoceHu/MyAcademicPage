@@ -39,7 +39,7 @@ design:
 
 ## Course Projects
 
-- <p style='text-align: justify;font-size:16px'><b>Robot Learning (MECE 6616) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Matei Ciocarlie</b></p>
+- <p style='float: left;font-size:16px'><b>Robot Learning (MECE 6616)</b></p><p style='float: right;font-size:16px'><b>Advisor: Matei Ciocarlie</b></p>
 
   - <p style='text-align: justify;font-size: 14px;'>Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.</p>
 
