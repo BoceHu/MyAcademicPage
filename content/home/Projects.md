@@ -19,7 +19,7 @@ design:
   
 - <p style='text-align: justify;font-size:16px'><b>ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine</b></p> <p style='text-align: right; font-color:grey; font-size:11px'><i>Feb 2022 – Oct 2022</i></p>
   
-  <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" class="center">
+  <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" class="centerrr">
   
   - <p style='text-align: justify;font-size: 14px;'>Collected a multi-view upper body movement dataset (UBM)  with the assistance of the trunk support trainer (TruST), consisting of 156K trunk movement depth images collected from 16 healthy subjects. The key points in the dataset is labeled by Vicon infrared system and the concept behind this dataset is the Star Excursion Balance Test (SEBT).</p>
   - <p style='text-align: justify;font-size: 14px;'>Designed a novel end-to-end Attention Cube Regression Network (ACRNet) for multi-view real-time 3D human pose estimation based on depth images, and validated the superiority of ACRNet on the ITOP dataset and UBM dataset compared with other state-of-the-art methods.</p>
@@ -48,12 +48,13 @@ design:
   - Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.
 
     <figure>  
-        <img class="link" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" style="width:100%">  <figcaption>Fig.1 - Deep Q-learning.</figcaption>
+        <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" style="width:100%">  <figcaption>Fig.1 - Deep Q-learning.</figcaption>
     </figure>
 
     
+    
     <figure>
-        <img class="link" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" style="width:100%">  <figcaption>Fig.2 - Proximal Policy Optimization.</figcaption>
+        <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" style="width:100%">  <figcaption>Fig.2 - Proximal Policy Optimization.</figcaption>
     </figure>
 
 - Robot Studio
