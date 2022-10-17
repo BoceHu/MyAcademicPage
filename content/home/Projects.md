@@ -75,7 +75,7 @@ design:
 </center>
 
 <ul><li>
- 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot</b></p><br/>
+ 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot Design</b></p><br/>
     <p style='font-size:16px'>
     	<b>The Final Project of Introduction to Robotics (MECE 4602)</b>
     </p>
