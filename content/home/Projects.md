@@ -64,7 +64,11 @@ design:
 
 
 
-
+<ul><li><p class="left" style='font-size:16px'><b>Glass Cleaning Robot (MECE 4602)</b></p><br/><p style='font-size:16px'><b>Advisor: Sunil K. Agrawal</b></p>
+    <ul><li><p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.</p></li></ul>		
+    <ul><li><p style='text-align: justify;font-size: 14px;'>Simulated the cleaning robot in MATLAB using Robotics System Toolbox.</p></li></ul>
+    <ul><li><p style='text-align: justify;font-size: 14px;'>Analyzed the workspace and the cleaning trajectory of the robot depending on the simulation</p></li></ul>
+    </li></ul>
 
 
 
@@ -75,5 +79,3 @@ design:
 
 
 - EA
-
-- Glass Cleaning Robot
