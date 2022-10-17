@@ -60,7 +60,7 @@ design:
     </center>
     </li></ul>
 <ul><li>
-    <p class="left" style='font-size:16px margin:-10px 0px 0px 0px'>
+    <p class="left" style='font-size:16px margin:20px 0px 0px 0px'>
         <b>Design, Fabrication, and Programming of Humanoid Robot</b>
     </p><br/>
     <p style='font-size:16px'>
