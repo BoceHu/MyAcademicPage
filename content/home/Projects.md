@@ -45,10 +45,10 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.</p></li></ul>
     <center>
     <figure>  
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%">  <figcaption>Deep Q-learning.</figcaption>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" vspace="1" hspace="5">  <figcaption>Deep Q-learning.</figcaption>
 </figure>
     <figure>
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization.</figcaption>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%" vspace="1" hspace="5">  <figcaption>Proximal Policy Optimization.</figcaption>
 </figure>
         </center>
     </li></ul>
