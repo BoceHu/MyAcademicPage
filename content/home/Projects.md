@@ -56,7 +56,7 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Designed the CAD model of an organic-looking two-legged robot including all components.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Fabricated each part of the robot using 3D printing and assembled them for test.</p></li></ul>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Programed the robot to walk and dance stably.</p></li></ul>
-    <iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe>
+    <center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe></center>
     </li></ul>
 
 
