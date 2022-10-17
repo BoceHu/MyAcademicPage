@@ -157,13 +157,13 @@ design:
     	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo6.gif" alt="random workspace" width="70%" style="margin:0px 0px">
 	</figure>
     <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo7.gif" alt="random workspace" width="70%" style="margin:0px 0px">
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo7.gif" alt="random workspace" width="70%" style="margin:0px -10px">
 	</figure>
     <figure>
-        <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo8.gif" alt="random workspace" width="70%" style="margin:0px 0px">
+        <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo8.gif" alt="random workspace" width="70%" style="margin:0px -10px">
 	</figure>
     <figure>
-  		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo9.gif" alt="random workspace" width="70%" style="margin:0px 0px">
+  		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo9.gif" alt="random workspace" width="70%" style="margin:0px -10px">
 	</figure><figcaption><b>Robot Zoo.</b></figcaption>
 </center><br/>
 
