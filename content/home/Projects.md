@@ -120,7 +120,10 @@ design:
 
 
 <ul><li>
- 	<p class="left" style='font-size:16px'><b>Soft Robot Locomotion Training with Evolutionary Algorithm (MECE 4510 The Final Project of Evolutionary Computation)</b></p><br/><p style='font-size:16px'><b>Advisor: Hod Lipson</b></p>
+ 	<p class="left" style='font-size:16px'><b>Soft Robot Locomotion Training with Evolutionary Algorithm</b></p><br/>
+        <p style='font-size:16px'>
+    	<b>The Final Project of Evolutionary Computation (MECE 4510)</b>
+    </p><p style='font-size:16px'><b>Advisor: Hod Lipson</b></p>
     	<ul><li>
             <p style='text-align: justify;font-size: 14px;'>Built a virtual physics engine with Python and OpenGL to simulate the real-world environment that satisfies the laws of physics.
             </p>
