@@ -67,9 +67,9 @@ design:
     	<b>The Final Project of Robot Studio (MECE 4611)</b>
     </p>
     <p style='font-size:16px'><b>Advisor: Hod Lipson</b></p>
-    <ul><li><p style='text-align: justify;font-size: 14px;'>Designed the CAD model of an organic-looking two-legged robot including all components.</p></li></ul>		
-    <ul><li><p style='text-align: justify;font-size: 14px;'>Fabricated each part of the robot using 3D printing and assembled them for test.</p></li></ul>
-    <ul><li><p style='text-align: justify;font-size: 14px;'>Programed the robot to walk and dance stably.</p></li></ul>
+    <ul><li><p style='text-align: justify;font-size: 14px;'>Brainstormed the appearance of the organic-looking two-legged robot, and designed the CAD model of all components in this robot.</p></li></ul>		
+    <ul><li><p style='text-align: justify;font-size: 14px;'>Fabricated each part of the robot using 3D printing and assembled them with the Raspberry Pi, motors, the controller board, etc., as the entire robot.</p></li></ul>
+    <ul><li><p style='text-align: justify;font-size: 14px;'>Programmed and tested each motor of the robot, allowing our robot to walk and dance stably.</p></li></ul>
     </li></ul>
 <center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe>
 </center><br/>
