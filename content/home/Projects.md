@@ -41,11 +41,11 @@ design:
 
 - <p style='text-align: justify;font-size:16px'><b>Robot Learning (MECE 6616) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Matei Ciocarlie</b></p>
 
-  - Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.
+  - <p style='text-align: justify;font-size: 14px;'>Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.</p>
 
-  - Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).
+  - <p style='text-align: justify;font-size: 14px;'>Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).</p>
 
-  - Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.
+  - <p style='text-align: justify;font-size: 14px;'>Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.</p>
 
     <figure>  
         <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%">  <figcaption>Deep Q-learning.</figcaption>
