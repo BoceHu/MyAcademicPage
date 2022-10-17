@@ -72,9 +72,7 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Programmed and tested each motor of the robot, allowing our robot to walk and dance stably.</p></li></ul>
     </li></ul>
 <center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe>
-</center><br/>
-
-
+</center>
 
 <ul><li>
  	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot</b></p><br/>
@@ -99,7 +97,6 @@ design:
 	</li></ul>
 </li></ul>
 
-
 <center>
     <figure>  
 		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="90%" vspace="1" hspace="5">  <figcaption style="margin:5px 0px -20px 0px">Render Robotic Arm.</figcaption>
@@ -117,6 +114,7 @@ design:
     	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="90%" vspace="1" hspace="1">  <figcaption style="margin:5px 0px -20px 0px">Random Workspace.</figcaption>
 	</figure>
 </center>
+
 
 
 <ul><li>
