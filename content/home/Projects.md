@@ -70,13 +70,13 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Analyzed the workspace and the cleaning trajectory of the robot depending on the simulation</p></li></ul>
      <center>
          <figure>  
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="70%">  <figcaption>Render Robotic Arm.</figcaption>
+    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="70%" hspace="0">  <figcaption>Render Robotic Arm.</figcaption>
 </figure>
     <figure>  
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="70%">  <figcaption>Arm Structure.</figcaption>
+    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="70%" hspace="0">  <figcaption>Arm Structure.</figcaption>
 </figure>
     <figure>
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="70%">  <figcaption>Complete Workspace.</figcaption>
+    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="70%" hspace="0">  <figcaption>Complete Workspace.</figcaption>
 </figure>
     <figure>  
     <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/trajectory.gif" alt="trajectory" width="70%">  <figcaption>Cleaning Trajectory.</figcaption>
@@ -86,6 +86,7 @@ design:
 </figure>
         </center>
     </li></ul>
+
 
 
 
