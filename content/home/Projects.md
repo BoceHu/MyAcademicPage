@@ -48,13 +48,13 @@ design:
   - Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.
 
     <figure>  
-        <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4">  <figcaption>Deep Q-learning.</figcaption>
+        <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="100%">  <figcaption>Deep Q-learning.</figcaption>
     </figure>
 
     
     
     <figure>
-        <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5">  <figcaption>Proximal Policy Optimization.</figcaption>
+        <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="100%">  <figcaption>Proximal Policy Optimization.</figcaption>
     </figure>
 
 - Robot Studio
