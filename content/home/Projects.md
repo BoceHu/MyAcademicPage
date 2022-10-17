@@ -122,20 +122,18 @@ design:
 <ul><li>
  	<p class="left" style='font-size:16px'><b>Soft Robot Locomotion Training with Evolutionary Algorithm (MECE 4510 The Final Project of Evolutionary Computation)</b></p><br/><p style='font-size:16px'><b>Advisor: Hod Lipson</b></p>
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.
+            <p style='text-align: justify;font-size: 14px;'>Built a virtual physics engine with Python and OpenGL to simulate the real-world environment that satisfies the laws of physics.
             </p>
          </li></ul>		
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'>Simulated the cleaning robot in MATLAB using Robotics System Toolbox.
+            <p style='text-align: justify;font-size: 14px;'>Treated each soft robot as a parent genotype and iteratively utilized the selection, mutation, and crossover mechanism to evolve the internal state of soft robots to improve the speed of hopping gait.
             </p>
         </li></ul>
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'>Analyzed the workspace and the cleaning trajectory of the robot depending on the simulation.
+            <p style='text-align: justify;font-size: 14px;'>Calculated the speed of each robot and used this speed as a reward to optimize the soft robot population.
             </p>
          </li></ul>
-    	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'><a href="uploads/FinalReport.pdf" target="_blank">Final Report</a></p>
-	</li></ul>
 </li></ul>
+
 
 
