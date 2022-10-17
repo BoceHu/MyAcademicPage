@@ -174,10 +174,10 @@ design:
   		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo9.gif" alt="zoo9" width="100%" style="margin:0px -10px">
 	</figure><figcaption><b>Robot Zoo</b></figcaption>
 </center>
-<figure>
+<center>
+    <figure>
   		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/fast.gif" alt="fast robot" width="90%" style="margin:0px -10px">
 	</figure><figcaption><b>Fast Robot</b></figcaption>
-<center>
 </center><br/>
 
 
