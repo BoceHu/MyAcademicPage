@@ -73,10 +73,17 @@ design:
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="120%">  <figcaption>Arm Structure.</figcaption>
 </figure>
     <figure>
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="120%">  <figcaption>Proximal Policy Optimization.</figcaption>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="120%">  <figcaption>Complete Workspace.</figcaption>
+</figure>
+    <figure>  
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/trajectory.gif" alt="trajectory" width="120%">  <figcaption>Cleaning Trajectory.</figcaption>
+</figure>
+    <figure>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="120%">  <figcaption>Random Workspace.</figcaption>
 </figure>
         </center>
     </li></ul>
+
 
 
 
