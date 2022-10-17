@@ -39,7 +39,7 @@ design:
 
 ## Course Projects
 
-<ul><li><p class="left" style='font-size:16px'><b>Robot Learning (MECE 6616)</b></p><p style='font-size:16px'><b>Advisor: Matei Ciocarlie</b></p>
+<ul><li><p class="left" style='font-size:16px'><b>Robot Learning (MECE 6616)</b></p><br/><p style='font-size:16px'><b>Advisor: Matei Ciocarlie</b></p>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).</p></li></ul>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.</p></li></ul>
