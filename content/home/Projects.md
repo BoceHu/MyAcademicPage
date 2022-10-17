@@ -79,9 +79,10 @@ design:
             </p>
          </li></ul>
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'><staticref "uploads/FinalReport.pdf" "newtab">Final Report</staticref></p>
+            <p style='text-align: justify;font-size: 14px;'><a href="uploads/FinalReport.pdf">Final Report</a></p>
 	</li></ul>
 </li></ul>
+
 
 
 
