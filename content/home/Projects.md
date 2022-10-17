@@ -39,7 +39,7 @@ design:
 
 ## Course Projects
 
-<ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target positions</b></p><br/>
+<ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target Positions</b></p><br/>
         <p style='font-size:16px'>
     	<b>Projects of Robot Learning (MECE 6616)</b>
     </p>
@@ -51,10 +51,10 @@ design:
         </p>
     </li></ul>
     <center>
-    <figure style="margin:5px 0px -10px 0px">  
+    <figure style="margin:0px 0px -30px 0px">  
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption >Deep Q-learning</figcaption>
 </figure>
-    <figure style="margin:0px 0px -10px 0px">
+    <figure style="margin:0px 0px -30px 0px">
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization</figcaption>
 </figure>
     </center>
