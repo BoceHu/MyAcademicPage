@@ -52,10 +52,10 @@ design:
     </li></ul>
     <center>
     <figure>  
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption style="margin:0px 0px -20px 0px">Deep Q-learning.</figcaption>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption style="margin:5px 0px -20px 0px">Deep Q-learning.</figcaption>
 </figure>
     <figure>
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption style="margin:0px 0px -20px 0px">Proximal Policy Optimization.</figcaption>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption style="margin:5px 0px -20px 0px">Proximal Policy Optimization.</figcaption>
 </figure>
     </center>
     </li></ul>
@@ -102,19 +102,19 @@ design:
 
 <center>
     <figure>  
-		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="90%" vspace="1" hspace="5">  <figcaption>Render Robotic Arm.</figcaption>
+		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="90%" vspace="1" hspace="5">  <figcaption style="margin:5px 0px -20px 0px">Render Robotic Arm.</figcaption>
 	</figure>
     <figure>  
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="90%" vspace="1" hspace="5">  <figcaption>Arm Structure.</figcaption>
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="90%" vspace="1" hspace="5">  <figcaption style="margin:5px 0px -20px 0px">Arm Structure.</figcaption>
 	</figure>
     <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="90%" vspace="1" hspace="5">  <figcaption>Complete Workspace.</figcaption>
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="90%" vspace="1" hspace="5">  <figcaption style="margin:5px 0px -20px 0px">Complete Workspace.</figcaption>
 	</figure>
     <figure>  
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/trajectory.gif" alt="trajectory" width="90%" vspace="1" hspace="1">  <figcaption>Cleaning Trajectory.</figcaption>
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/trajectory.gif" alt="trajectory" width="90%" vspace="1" hspace="1">  <figcaption style="margin:5px 0px -20px 0px">Cleaning Trajectory.</figcaption>
 	</figure>
     <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="90%" vspace="1" hspace="1">  <figcaption>Random Workspace.</figcaption>
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="90%" vspace="1" hspace="1">  <figcaption style="margin:5px 0px -20px 0px">Random Workspace.</figcaption>
 	</figure>
 </center>
 
@@ -139,31 +139,31 @@ design:
 </li></ul>
 <center>
     <figure>  
-		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo1.gif" alt="render" width="100%" style="margin:0px -20px">
+		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo1.gif" alt="render" width="100%" style="margin:0px -15px">
 	</figure>
     <figure>  
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo2.gif" alt="structure" width="100%" style="margin:0px -20px"> 
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo2.gif" alt="structure" width="100%" style="margin:0px -15px"> 
 	</figure>
     <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo3.gif" alt="workspace" width="100%" style="margin:0px -20px">
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo3.gif" alt="workspace" width="100%" style="margin:0px -15px">
 	</figure>
     <figure>  
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo4.gif" alt="trajectory" width="100%" style="margin:0px -20px">
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo4.gif" alt="trajectory" width="100%" style="margin:0px -15px">
 	</figure>
     <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo5.gif" alt="random workspace" width="100%" style="margin:0px -20px">
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo5.gif" alt="random workspace" width="100%" style="margin:0px -15px">
 	</figure>
         <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo6.gif" alt="random workspace" width="100%" style="margin:0px -20px">
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo6.gif" alt="random workspace" width="100%" style="margin:0px -15px">
 	</figure>
     <figure>
-    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo7.gif" alt="random workspace" width="100%" style="margin:0px -20px">
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo7.gif" alt="random workspace" width="100%" style="margin:0px -15px">
 	</figure>
     <figure>
-        <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo8.gif" alt="random workspace" width="100%" style="margin:0px -20px">
+        <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo8.gif" alt="random workspace" width="100%" style="margin:0px -15px">
 	</figure>
     <figure>
-  		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo9.gif" alt="random workspace" width="100%" style="margin:0px -20px">
+  		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/zoo9.gif" alt="random workspace" width="100%" style="margin:0px -15px">
 	</figure><figcaption><b>Robot Zoo.</b></figcaption>
 </center><br/>
 
