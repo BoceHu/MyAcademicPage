@@ -39,11 +39,20 @@ design:
 
 ## Course Projects
 
-- Robot Learning (MECE 6616)
+- <p style='text-align: justify;font-size:16px'><b>Robot Learning (MECE 6616) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Matei Ciocarlie</b></p>
+
   - Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.
+
   - Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).
+
   - Leveraged PyTorch, OpenAi Gym, and Stable-Baselines3 to stimulate the working environment.
-  - Demo Page
+
+    <figure>  <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" style="width:50%" class="left">  <figcaption>Fig.1 - Deep Q-learning.</figcaption>
+    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" style="width:50%" class="right">  <figcaption>Fig.2 - Proximal Policy Optimization.</figcaption>
+    </figure>
+
 - Robot Studio
+
 - EA
+
 - Glass Cleaning Robot
