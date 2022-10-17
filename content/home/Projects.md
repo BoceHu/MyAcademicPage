@@ -51,16 +51,16 @@ design:
         </p>
     </li></ul>
     <center>
-    <figure>  
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption style="margin:5px 0px -70px 0px">Deep Q-learning</figcaption>
+    <figure style="margin:5px 0px -10px 0px">  
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption >Deep Q-learning</figcaption>
 </figure>
-    <figure>
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption style="margin:5px 0px -70px 0px">Proximal Policy Optimization</figcaption>
+    <figure style="margin:0px 0px -10px 0px">
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization</figcaption>
 </figure>
     </center>
     </li></ul>
 <ul><li>
-    <p class="left" style='font-size:16px margin:20px 0px 0px 0px'>
+    <p class="left" style='font-size:16px'>
         <b>Design, Fabrication, and Programming of Humanoid Robot</b>
     </p><br/>
     <p style='font-size:16px'>
