@@ -47,7 +47,7 @@ design:
 	<figure>  
 		<img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" alt="pipeline" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >ACRNet Working Pipeline</figcaption>
     </figure>
-</figure></center>
+</center>
 
 
 
