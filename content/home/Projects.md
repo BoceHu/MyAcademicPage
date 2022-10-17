@@ -68,6 +68,14 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Simulated the cleaning robot in MATLAB using Robotics System Toolbox.</p></li></ul>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Analyzed the workspace and the cleaning trajectory of the robot depending on the simulation</p></li></ul>
+     <center>
+    <figure>  
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="120%">  <figcaption>Arm Structure.</figcaption>
+</figure>
+    <figure>
+    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="120%">  <figcaption>Proximal Policy Optimization.</figcaption>
+</figure>
+        </center>
     </li></ul>
 
 
