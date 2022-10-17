@@ -79,10 +79,12 @@ design:
             </p>
          </li></ul>
     	<ul><li>
-            <p style='text-align: justify;font-size: 14px;'><a href="assets/media/FinalReport.pdf">Final Report</a>
-            </p>
-		</li></ul>
-    </li></ul>
+            <p style='text-align: justify;font-size: 14px;'><staticref "uploads/FinalReport.pdf" "newtab">Final Report</staticref></p>
+	</li></ul>
+</li></ul>
+
+
+
 <center>
     <figure>  
 		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="90%" vspace="1" hspace="5">  <figcaption>Render Robotic Arm.</figcaption>
@@ -100,6 +102,7 @@ design:
     	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="90%" vspace="1" hspace="1">  <figcaption>Random Workspace.</figcaption>
 	</figure>
 </center>
+
 
 
 
