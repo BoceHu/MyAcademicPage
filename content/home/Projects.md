@@ -41,7 +41,7 @@ design:
     </li></ul>
     <ul><li>
         <p style='text-align: justify;font-size: 14px;'>Proposed a new backbone structure and a dynamic multi-view fusion module based on cross-attention mechanism. Both of them improve the representation ability of our model.</p>
-    </li></ul>
+    </li></ul><br/>
     <center>
 	<figure>  
 		<img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" alt="pipeline" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >ACRNet Working Pipeline</figcaption>
