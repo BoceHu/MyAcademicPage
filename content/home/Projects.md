@@ -50,16 +50,25 @@ design:
         <p style='text-align: justify;font-size: 14px;'>Leveraged OpenAi Gym, PyTorch, and Stable-Baselines3 to build the real physcial working environment and train the model to complete different control tasks.
         </p>
     </li></ul>
-    </li></ul>
-    <center>
-    <figure>  
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption >Deep Q-learning</figcaption>
-</figure>
-    <figure>
-    <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization</figcaption>
-</figure>
-    </center>
+</li></ul>
+<center>
+	<figure>  
+		<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" >  <figcaption style="margin:0px 0px -20px 0px" >Deep Q-learning</figcaption>
+    </figure><figure>
+	<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption style="margin:0px 0px -20px 0px">Proximal Policy Optimization</figcaption>
+</figure></center>
+
+
+
+
+
+
+
+
+
+
     
+
 <ul><li>
     <p class="left" style='font-size:16px'>
         <b>Design, Fabrication, and Programming of Humanoid Robot</b>
