@@ -69,24 +69,33 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Simulated the cleaning robot in MATLAB using Robotics System Toolbox.</p></li></ul>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Analyzed the workspace and the cleaning trajectory of the robot depending on the simulation</p></li></ul>
     </li></ul>
-     <center>
-         <figure>  
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="90%" vspace="1" hspace="5">  <figcaption>Render Robotic Arm.</figcaption>
-</figure>
+<center>
     <figure>  
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="90%" vspace="1" hspace="5">  <figcaption>Arm Structure.</figcaption>
-</figure>
-    <figure>
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="90%" vspace="1" hspace="5">  <figcaption>Complete Workspace.</figcaption>
-</figure>
+		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/render.png" alt="render" width="90%" vspace="1" hspace="5">  <figcaption>Render Robotic Arm.</figcaption>
+	</figure>
     <figure>  
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/trajectory.gif" alt="trajectory" width="90%" vspace="1" hspace="1">  <figcaption>Cleaning Trajectory.</figcaption>
-</figure>
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/structure.png" alt="structure" width="90%" vspace="1" hspace="5">  <figcaption>Arm Structure.</figcaption>
+	</figure>
     <figure>
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="80%" vspace="1" hspace="1">  <figcaption>Random Workspace.</figcaption>
-</figure>
-    </center>
-    
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/workspace.png" alt="workspace" width="90%" vspace="1" hspace="5">  <figcaption>Complete Workspace.</figcaption>
+	</figure>
+    <figure>  
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/trajectory.gif" alt="trajectory" width="90%" vspace="1" hspace="1">  <figcaption>Cleaning Trajectory.</figcaption>
+	</figure>
+    <figure>
+    	<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/randomworkspace.gif" alt="random workspace" width="90%" vspace="1" hspace="1">  <figcaption>Random Workspace.</figcaption>
+	</figure>
+</center>
+
+
+
+
+
+
+
+
+
+
 
 
 
