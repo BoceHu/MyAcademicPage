@@ -46,13 +46,13 @@ design:
     </li></ul>
 
 <figure>  
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%">  <figcaption>Deep Q-learning.</figcaption>
+    <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%">  <figcaption>Deep Q-learning.</figcaption>
 </figure>
 
 
 
 <figure>
-    <img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization.</figcaption>
+    <img class="center" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption>Proximal Policy Optimization.</figcaption>
 </figure>
 
 - Robot Studio
