@@ -60,7 +60,7 @@ design:
 <center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe></center>
 
 <ul><li>
- 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot (MECE 4602)</b></p><br/><p style='font-size:16px'><b>Advisor: Sunil K. Agrawal</b></p>
+ 	<p class="left" style='font-size:16px'><b>Glass Cleaning Robot (MECE 4602 The Final Project of Introduction to Robotics)</b></p><br/><p style='font-size:16px'><b>Advisor: Sunil K. Agrawal</b></p>
     	<ul><li>
             <p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.
             </p>
@@ -77,9 +77,6 @@ design:
             <p style='text-align: justify;font-size: 14px;'><a href="uploads/FinalReport.pdf" target="_blank">Final Report</a></p>
 	</li></ul>
 </li></ul>
-
-
-
 
 <center>
     <figure>  
@@ -100,25 +97,23 @@ design:
 </center>
 
 
+<ul><li>
+ 	<p class="left" style='font-size:16px'><b>Soft Robot Locomotion Training with Evolutionary Algorithm (MECE 4510 The Final Project of Evolutionary Computation)</b></p><br/><p style='font-size:16px'><b>Advisor: Hod Lipson</b></p>
+    	<ul><li>
+            <p style='text-align: justify;font-size: 14px;'>Applied SolidWorks to design a 4 DOF redundant robotic arm with a rotating base.
+            </p>
+         </li></ul>		
+    	<ul><li>
+            <p style='text-align: justify;font-size: 14px;'>Simulated the cleaning robot in MATLAB using Robotics System Toolbox.
+            </p>
+        </li></ul>
+    	<ul><li>
+            <p style='text-align: justify;font-size: 14px;'>Analyzed the workspace and the cleaning trajectory of the robot depending on the simulation.
+            </p>
+         </li></ul>
+    	<ul><li>
+            <p style='text-align: justify;font-size: 14px;'><a href="uploads/FinalReport.pdf" target="_blank">Final Report</a></p>
+	</li></ul>
+</li></ul>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- EA
