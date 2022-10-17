@@ -39,14 +39,17 @@ design:
 
 ## Course Projects
 
-<ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target positions</b></p>
+<ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target positions</b></p><br/>
         <p style='font-size:16px'>
     	<b>Projects of Robot Learning (MECE 6616)</b>
     </p>
     <p style='font-size:16px'><b>Advisor: Matei Ciocarlie</b></p>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).</p></li></ul>
-    <ul><li><p style='text-align: justify;font-size: 14px;'>Leveraged OpenAi Gym, PyTorch, and Stable-Baselines3 to build the real physcial working environment and train the model to complete different control tasks.</p></li></ul>
+    <ul><li>
+        <p style='text-align: justify;font-size: 14px;'>Leveraged OpenAi Gym, PyTorch, and Stable-Baselines3 to build the real physcial working environment and train the model to complete different control tasks.
+        </p>
+    </li></ul>
     <center>
     <figure>  
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project4.gif" alt="project4" width="120%" vspace="1" hspace="5">  <figcaption>Deep Q-learning.</figcaption>
@@ -54,12 +57,12 @@ design:
     <figure>
     <img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%" vspace="1" hspace="5">  <figcaption>Proximal Policy Optimization.</figcaption>
 </figure>
-        </center>
+    </center>
     </li></ul>
 <ul><li>
     <p class="left" style='font-size:16px'>
         <b>Design, Fabrication, and Programming of Humanoid Robot</b>
-    </p>
+    </p><br/>
     <p style='font-size:16px'>
     	<b>The Final Project of Robot Studio (MECE 4611)</b>
     </p>
