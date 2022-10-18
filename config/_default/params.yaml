@@ -6,8 +6,10 @@
 
 # Appearance
 
-theme: researcher
-day_night: false
+# theme: researcher
+# day_night: false
+theme_day: minimal
+theme_night: minimal
 font: Classic
 font_size: m
 
