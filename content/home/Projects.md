@@ -110,7 +110,7 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Fabricated each part of the robot using 3D printing and assembled them with the Raspberry Pi, motors, the controller board, etc., as the entire robot.</p></li></ul>
     <ul><li><p style='text-align: justify;font-size: 14px;'>Programmed and tested each motor of the robot, allowing our robot to walk and dance stably.</p></li></ul>
     </li></ul>
-<center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe><figcaption style="margin:5px 0px -20px 0px" >Journal Video</figcaption>
+<center><iframe src="https://drive.google.com/file/d/16rJ4tMXq-6bOT0jgmPtxK9u5p8Ao408n/preview" width="640" height="480" allow="autoplay"></iframe><figcaption style="margin:5px 0px 0px 0px" >Journal Video</figcaption>
 </center>
 
 <ul><li>
