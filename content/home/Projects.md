@@ -206,7 +206,7 @@ design:
 <center>
     <figure>
   		<img src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/robotzoo/fast.gif" alt="fast robot" width="90%" style="margin:0px -10px">
-	</figure><figcaption><b>Fast Robot</b></figcaption>
+	</figure><figcaption><b>The Fastest Robot</b></figcaption>
 </center><br/>
 
 
