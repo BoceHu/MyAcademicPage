@@ -32,6 +32,6 @@ design:
 
   Xupeng Ai, Victor Santamaria, Jiawei Chen, **Boce Hu**, Chenfei Zhu, Sunil K. Agrawal
 
-  _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2023, Under Review_
+  _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2022, Accepted_
 
   [[Techrxiv](https://doi.org/10.36227/techrxiv.20499006.v1)]
