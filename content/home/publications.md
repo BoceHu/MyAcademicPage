@@ -20,6 +20,12 @@ design:
   columns: '1'
 ---
 
+- **SARN: Shifted Attention Regression Network for 3D Hand Pose Estimation**
+
+  Chenfei Zhu, **Boce Hu**, Jiawei Chen, Xupeng Ai, Sunil K. Agrawal
+
+  _Under Review, 2023_
+
 - **ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine**
 
   **Boce Hu**, Chenfei Zhu, Xupeng Ai, Sunil K. Agrawal
@@ -35,7 +41,7 @@ design:
   _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2022_
 
   [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9944704)]
-  
+
 - **Study on the Removal Process of Oxide Scale on the 17-4PH Aviation Fasteners**
 
   Wenting Lu, Yajun Chen, Xianjie Song, Keyu Wang, **Boce Hu**, Xuntao Zhang
