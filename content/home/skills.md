@@ -13,4 +13,4 @@ design:
 ---
 
 - **Programming Languages**: Python, MATLAB, C++, JAVA, Git
-- **Software**: TensorFlow, PyTorch, OpenCV, Stable-baselines3, Robot Operating System (ROS), SolidWorks, Blender, 3D-Printing, LaTeX and Linux
+- **Software**: TensorFlow, PyTorch, OpenCV, Stable-baselines3, Pybullet, Robot Operating System (ROS), SolidWorks, Blender, 3D-Printing, LaTeX, Linux

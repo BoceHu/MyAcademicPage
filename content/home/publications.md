@@ -2,7 +2,7 @@
 widget: pages
 headless: true
 weight: 30
-title: Recent Publications
+title: Publications
 subtitle: ''
 content:
   page_type: publication
@@ -24,26 +24,23 @@ design:
 
   Chenfei Zhu, **Boce Hu**, Jiawei Chen, Xupeng Ai, Sunil K. Agrawal
 
-  _Under Review, 2023_
+  _Bioengineering, Under Review, 2023_
 
-- **ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine**
+- **ACRNet: Attention Cube Regression Network for Multi-view 3D Human Pose Estimation in the Postural Star-sitting Test**
 
   **Boce Hu**, Chenfei Zhu, Xupeng Ai, Sunil K. Agrawal
 
-  _Under Review, 2023_
-
-  [[PDF](https://arxiv.org/pdf/2210.05130.pdf)] [[Code](https://github.com/BoceHu/ACRNet)]
+  _Scientific Reports, Under Review, 2023_ [[PDF](https://arxiv.org/pdf/2210.05130.pdf)] [[Code](https://github.com/BoceHu/ACRNet)]
 
 - **A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation**
 
   Xupeng Ai, Victor Santamaria, Jiawei Chen, **Boce Hu**, Chenfei Zhu, Sunil K. Agrawal
 
-  _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2022_
-
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9944704)]
+  _IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2022_ [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9944704&tag=1)]
 
 - **Study on the Removal Process of Oxide Scale on the 17-4PH Aviation Fasteners**
 
   Wenting Lu, Yajun Chen, Xianjie Song, Keyu Wang, **Boce Hu**, Xuntao Zhang
 
   _PLATING&FINISHING, 2019_
+

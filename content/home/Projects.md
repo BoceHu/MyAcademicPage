@@ -9,64 +9,85 @@ design:
   image_position: center
 ---
 
-## Research Projects
+<ul><li>
+    <p style='text-align: justify;font-size:16px'><b>Visual Information-Based Grasping of the Robotic Arm Using the Deep Learning Model</b></p> 
+    <ul><li>
+    <p style='text-align: justify;font-size: 14px;'>Leveraged a deep learning model to predict the robotic arm grasp poses from a depth image scene, which contains a variety of objects at random locations.</p>
+    </li></ul>
+    <ul><li> <p style='text-align: justify;font-size: 14px;'>According to the objects' spatial information, the deep learning model can output the grasp position, grasp angle, and gripper width to complete the grasp work.</p></li></ul>
+    <ul><li>
+            <p style='text-align: justify;font-size: 14px;'><a href="https://github.com/BoceHu/vision_based_grasp" target="_blank">Code</a></p>
+	</li></ul>
+</li></ul>
+<center>
+	<figure>  
+		<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/grasp.gif" alt="grasp" width="90%" >  <figcaption style="margin:5px 0px -20px 0px" >The left gif shows the grasping process of the panda robotic arm in the Pybullet simulation environment, and the right gif shows the rendered depth map. The red line in the depth map is the grasping position of the gripper.</figcaption>
+    </figure>
+</center>
+
 
 <ul><li>
     <p style='text-align: justify;font-size:16px'>
-        <b>SARN: Shifted Attention Regression Network for 3D Hand Pose Estimation in Medical Application</b>
+        <b>SARN: Shifted Attention Regression Network for 3D Hand Pose Estimation</b>
     </p> 
-    <p style='text-align: right;font-color:grey; font-size:11px'><i>Feb 2022 – Present</i>
-    </p>
-    	<ul><li>
-    		<p style='text-align: justify; font-size: 14px;' >Proposed a novel network architecture, shifted attention regression network (SARN), which is characterized by shifted attention heatmap and soft input aggregation, to perform accurate, robust and unbiased 3D hand pose estimation (HPE) for medical application. 
-    		</p>
-        </li></ul>
-        <ul><li>
-    		<p style='text-align: justify;font-size: 14px;'>Built a hand movement dataset (PAKH) based on Parkinson’s finger tapping test (FTT) by conducting experiments on 17 subjects. PAKH contains 92k depth images collected by two Intel RealSense D435i depth cameras with 5 hand joint annotations labeled by Vicon infrared system.
-   			 </p>
-        </li></ul>
-    	<ul><li>
-    		<p style='text-align: justify;font-size: 14px;'>Proposed method outperforms or achieves state-of-the-art performance on three public datasets: NYU, ICVL and MSRA datasets, and achieves low error on predicting joint position and all task-specific metrics on PAKH, which indicates that the proposed method can perform accurate and robust HPE and has the potential for medical applications.
-    		</p>    
-    	</li></ul>
-</li></ul>
-<ul><li>
-	<p style='text-align: justify;font-size:16px'><b>ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine</b></p> <p style='text-align: right; font-color:grey; font-size:11px'><i>Feb 2022 – Oct 2022</i>
-    </p>
     <ul><li>
-    	<p style='text-align: justify;font-size: 14px;'>Collected a multi-view upper body movement dataset (UBM)  with the assistance of the trunk support trainer (TruST), consisting of 156K trunk movement depth images collected from 16 healthy subjects. The key points in the dataset is labeled by Vicon infrared system and the concept behind this dataset is the Star Excursion Balance Test (SEBT).</p>
+    	<p style='text-align: justify; font-size: 14px;' >Proposed a novel network architecture, shifted attention regression network (SARN), which is characterized by shifted attention heatmap and soft input aggregation, to perform accurate, robust and unbiased 3D hand pose estimation (HPE) for hand disorder recognition.
+    	</p>
     </li></ul>
     <ul><li>
-    	<p style='text-align: justify;font-size: 14px;'>Designed a novel end-to-end Attention Cube Regression Network (ACRNet) for multi-view real-time 3D human pose estimation based on depth images, and validated the superiority of ACRNet on the ITOP dataset and UBM dataset compared with other state-of-the-art methods.</p>
+    	<p style='text-align: justify;font-size: 14px;'>Built a hand movement dataset (PAKH) based on Parkinson’s finger tapping test (FTT) by conducting experiments on 17 subjects. PAKH contains 26k depth images collected by a Intel RealSense D435i depth camera with 2 hand joint annotations.
+   		</p>
     </li></ul>
-    <ul><li>
-        <p style='text-align: justify;font-size: 14px;'>Proposed a new backbone structure and a dynamic multi-view fusion module based on cross-attention mechanism. Both of them improve the representation ability of our model.</p>
-    </li></ul><br/>
+   	<ul><li>
+    	<p style='text-align: justify;font-size: 14px;'>Proposed method outperforms or achieves state-of-the-art performance on three public datasets: NYU, ICVL and MSRA datasets, and achieves low error on predicting joint position and all task-specific metrics on PAKH, which indicates that the proposed method can perform accurate and robust HPE and has the potential for medical applications.
+    	</p>    
+    </li></ul>
     <center>
 	<figure>  
-		<img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" alt="pipeline" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >ACRNet Working Pipeline</figcaption>
+		<img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/SARN_pipeline.png" alt="sarn_pipeline" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >SARN Working Pipeline</figcaption>
+    </figure>
+    <figure>  
+		<img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/qual.png" alt="qual" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >Qualitative Results (Ground truth is shown in red, and the prediction is in yellow.)</figcaption>
     </figure>
 </center>
 </li></ul>
-
-
-
+<ul><li>
+	<p style='text-align: justify;font-size:16px'><b>ACRNet: Attention Cube Regression Network for Multi-view 3D Human Pose Estimation in the Postural Star-sitting Test</b></p> 
+    <ul><li>
+    <p style='text-align: justify;font-size: 14px;'>Designed a novel end-to-end Attention Cube Regression Network (ACRNet), which introduces an attention cube to enclose the
+object and aggregates information from each cube’s surface to estimate the 3D position of the key points on the human body based on multi-view depth images.</p>
+    </li></ul>
+    <ul><li>
+        <p style='text-align: justify;font-size: 14px;'>Proposed a new backbone structure and a dynamic multi-view fusion module based on cross-attention mechanism. Both of them improve the representation ability of our model.</p>
+    </li></ul>
+    <ul><li>
+    <p style='text-align: justify;font-size: 14px;'>Collected a multi-view upper body movement dataset (UBM) based on the postural star-sitting test, consisting of 156K trunk movement depth images from 16 healthy subjects tested on the Trunk Support Trainer (TruST).
+	</p>
+    </li></ul>
+    <center>
+	<figure>  
+		<img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/pipeline.png" alt="pipeline" width="100%">  <figcaption style="margin:5px 0px -20px 0px" >ACRNet Working Pipeline</figcaption>
+    </figure>
+     <figure>
+          <img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/acr.png" alt="acr" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >Attention Cube</figcaption>
+    </figure>
+        <figure>
+            <img class="centerpipe" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/qual_acr.png" alt="qual_acr" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >Qualitative Results (Ground truth is shown in red, and the predicted pose is green.)</figcaption>
+        </figure>
+</center>
+</li></ul>
 
 <ul><li>
-    <p style='text-align: justify;font-size:16px'><b>A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation</b></p> <p style='text-align: right; font-color:grey; font-size:11px'><i>Oct 2021 – May 2022</i></p>
+    <p style='text-align: justify;font-size:16px'><b>A Deep-Learning Based Real-Time Prediction of Seated Postural Limits and its Application in Trunk Rehabilitation</b></p> 
     <ul><li>
     <p style='text-align: justify;font-size: 14px;'>Developed a new deep-learning-based controller for TruST to predict the dynamic virtual motion boundary of upper body movements in real-time, which can represent the actual seated postural limits more accurately in the rehabilitation sitting task of patients with cerebral palsy, replacing the fixed boundary without strong representational ability used in the previous version.</p>
     </li></ul>
 </li></ul>
 <center>
 	<figure>  
-		<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" alt="project4" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >Trust System with Dynamic Virtual Motion Boundary</figcaption>
+		<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/bounding.png" alt="project4" width="100%" >  <figcaption style="margin:5px 0px -20px 0px" >The TruST System With Dynamic Virtual Motion Boundary</figcaption>
     </figure>
 </figure></center>
-
-​		
-
-## Course Projects
 
 <ul><li><p class="left" style='font-size:16px'><b>Dynamic Torque Control of Multi-link Robotic Arms According to End Effector Target Positions</b></p><br/>
         <p style='font-size:16px'>
@@ -76,7 +97,7 @@ design:
     <ul><li><p style='text-align: justify;font-size: 14px;'>Controlled the state (i.e., velocity, angle, and torque) of multi-link robotic arms to achieve specific positions.</p></li></ul>		
     <ul><li><p style='text-align: justify;font-size: 14px;'>Compared the speed of approaching the target position and the ability to maintain the current state after reaching the target position of simple deep learning and multiple deep reinforcement learning algorithms (deep Q-Network, proximal policy optimization).</p></li></ul>
     <ul><li>
-        <p style='text-align: justify;font-size: 14px;'>Leveraged OpenAi Gym, PyTorch, and Stable-Baselines3 to build the real physcial working environment and train the model to complete different control tasks.
+        <p style='text-align: justify;font-size: 14px;'>Leveraged OpenAi Gym, PyTorch, and Stable-Baselines3 to build the real physical working environment and train the model to complete different control tasks.
         </p>
     </li></ul>
 </li></ul>
@@ -87,20 +108,9 @@ design:
 	<img class="centerr" src="https://github.com/BoceHu/MyAcademicPage/raw/master/assets/media/project5.gif" alt="project5" width="120%">  <figcaption style="margin:5px 0px -20px 0px">Proximal Policy Optimization</figcaption>
 </figure></center>
 
-
-
-
-
-
-
-
-
-
-​    
-
 <ul><li>
     <p class="left" style='font-size:16px'>
-        <b>Design, Fabrication, and Programming of Humanoid Robot</b>
+        <b>Design, Fabrication, and Programming of a Humanoid Robot</b>
     </p><br/>
     <p style='font-size:16px'>
     	<b>The Final Project of Robot Studio (MECE 4611)</b>
